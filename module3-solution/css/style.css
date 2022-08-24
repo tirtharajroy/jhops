@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#navbar {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  background-color: rgb(131, 164, 165);
+}
+p.h3{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    padding: 10px 23px;
+}
+.nav-link {
+    border: 2px solid black;
+    border-bottom: 1px solid;
+    background-color: white;
+}
+.nav-link:nth-child(3){
+    border-bottom: 2px solid;
+}
+.cards{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: rgb(131, 164, 165);
+    min-height: 200px;
+    border: 10px solid white;
+}
+p.h4{
+    padding: 10px;
+}
