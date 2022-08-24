@@ -7,6 +7,9 @@ Do you realize that the only functionality of a web application that the user di
 # Assignments:
 
 <b><a href="https://tirtharajroy.github.io/jhops/module2-solution/index.html">Module 2</a></b>
+<br>
 <b><a href="https://tirtharajroy.github.io/jhops/module3-solution/index.html">Module 3</a></b>
+<br>
 <b><a href="https://tirtharajroy.github.io/jhops/module4-solution/index.html">Module 4</a></b>
+<br>
 <b><a href="">Module 5</a></b>
